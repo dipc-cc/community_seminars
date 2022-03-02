@@ -1,0 +1,47 @@
+{% comment %}<!--
+Collate_posts helper. Collated posts by year and month.
+Usage:
+  1) assign the 'posts_collate' variable to a valid array of posts.
+  2) include JB/posts_collate
+  example:
+    {% assign posts_collate = site.posts %}
+    {% include JB/posts_collate %}
+
+  Ordering:
+    Posts are displayed in reverse chronological order.
+    For normal chronological order:
+      1) Change the for loop to this:
+        => 'for post in site.posts reversed'
+      2) Next make sure to change 'post.previous.date' to:
+        => 'post.next.date'
+
+-->{% endcomment %}
+
+
+
+{% capture currentDateJS %}
+<script type="text/javascript">document.write(Math.round(Date.now()));</script>
+{% endcapture %}
+
+{% assign currentDateJS = currentDateJS | plus: 0 %}
+{% assign next_event = "http://google.com" %}
+
+{% capture currentDate %} {{ 'now' | date: '%s'}} {% endcapture %}
+{% for post in posts_next  %}
+
+    {% capture postDate %} {{ post.date | date: '%s'}} {% endcapture %}
+    {% assign postDate = postDate | plus: 0 %}
+    {% assign currentDate = currentDate | plus: 0 %}
+
+    {% if currentDate < postDate %}
+        <li class="posts">
+        <small><a style="color:grey" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread"></a></small>
+        <a class="nice-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+       </li>
+       {% assign next_event =  post.url %}
+
+    {% endif %}
+
+{% endfor %}
+
+{% assign posts_next = nil %}

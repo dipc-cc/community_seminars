@@ -1,0 +1,25 @@
+---
+layout: initial_page
+title : Upcoming events
+header : Upcoming events
+---
+{% include JB/setup %}
+{% assign posts_upcoming = site.posts %}
+{% include JB/posts_upcoming %}
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'noname';
+    var current_time = Math.round(Date.now());
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+
+

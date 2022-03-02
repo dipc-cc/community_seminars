@@ -1,0 +1,52 @@
+{% comment %}<!--
+Collate_posts helper. Collated posts by year and month.
+Usage:
+  1) assign the 'posts_collate' variable to a valid array of posts.
+  2) include JB/posts_collate
+  example:
+    {% assign posts_collate = site.posts %}
+    {% include JB/posts_collate %}
+
+  Ordering:
+    Posts are displayed in reverse chronological order.
+    For normal chronological order:
+      1) Change the for loop to this:
+        => 'for post in site.posts reversed'
+      2) Next make sure to change 'post.previous.date' to:
+        => 'post.next.date'
+
+-->{% endcomment %}
+
+
+
+{% capture currentDateJS %}
+<script type="text/javascript">document.write(Math.round(Date.now()));</script>
+{% endcapture %}
+{% assign currentDateJS = currentDateJS | plus: 0 %}
+
+{% capture currentDate %} {{ 'now' | date: '%s'}} {% endcapture %}
+{% for post in posts_upcoming  %}
+
+    {% capture postDate %} {{ post.date | date: '%s'}} {% endcapture %}
+    {% assign postDate = postDate | plus: 0 %}
+    {% assign currentDate = currentDate | plus: 0 %}
+
+    {% if currentDate < postDate %}
+    <div class="box_color group_{{post.group}}" >
+        <lu class="posts">
+        {{ post.date | date: "%-d %b, %Y (%A)" }} at {{ post.place }}
+        <small><a style="color:grey" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread"></a></small>
+        <br>
+        <a class="nice-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <br><img src="{{ site.baseurl }}{{ post.image }}" alt="" style="width:100px;"/>
+        <br><b>{{ post.speaker }} (<a href="mailto:{{post.contact}}">{{post.contact}})</a></b>
+        <p class="nice-text">{{ post.content | strip_html | truncatewords: 80 }} <a href="{{ post.url | relative_url }}">Read more!</a></p>
+        </lu>
+        <br>
+    </div>
+
+    {% endif %}
+
+{% endfor %}
+
+{% assign posts_upcoming = nil %}

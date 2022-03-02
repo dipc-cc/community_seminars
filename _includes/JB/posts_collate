@@ -1,0 +1,57 @@
+{% comment %}<!--
+Collate_posts helper. Collated posts by year and month.
+Usage:
+  1) assign the 'posts_collate' variable to a valid array of posts.
+  2) include JB/posts_collate
+  example:
+    {% assign posts_collate = site.posts %}
+    {% include JB/posts_collate %}
+
+  Ordering:
+    Posts are displayed in reverse chronological order.
+    For normal chronological order:
+      1) Change the for loop to this:
+        => 'for post in site.posts reversed'
+      2) Next make sure to change 'post.previous.date' to:
+        => 'post.next.date'
+        
+-->{% endcomment %}
+
+{% capture currentDate %} {{ 'now' | date: '%s'}} {% endcapture %}
+{% assign currentDate = currentDate | plus: 0 %}
+
+{% if site.JB.posts_collate.provider == "custom" %}
+  {% include custom/posts_collate %}
+{% else %}
+  {% assign first_loop=true %}
+  {% for post in posts_collate  %}
+
+    {% capture postDate %} {{ post.date | date: '%s'}} {% endcapture %}
+    {% assign postDate = postDate | plus: 0 %}
+
+    {% if currentDate > postDate %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+    {% if first_loop %}
+      <h2 class="nice-title">{{this_year}}</h2>
+      <ul>
+      {% assign first_loop=false %}
+    {% endif %}
+
+    <li><span> {{ post.date | date: "%-d %b" }} &nbsp;<b>{{ post.speaker }} </b></span> <br>&raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  
+    {% if forloop.last %}
+      </ul>
+    {% else %}
+      {% if this_year != next_year %}
+        </ul>
+        <hr/>
+        <h2 class="nice-title">{{next_year}}</h2>
+        <ul>
+      {% endif %}
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% assign posts_collate = nil %}

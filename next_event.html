@@ -1,0 +1,28 @@
+---
+layout: page
+title: Next Event
+header: Next Event
+group: navigation
+---
+{% include JB/setup %}
+{% assign posts_next = site.posts %}
+
+{% include JB/posts_next %}
+
+this is a test {{next_event}}
+
+<html>
+ <head>
+     <meta charset="utf-8"/>
+     <meta http-equiv="refresh" content="1;url={{ redirect_url }}"/>
+     <link rel="canonical" href="{{ site.baseurl }}{{ next_event }}"/>
+     <script type="text/javascript">
+             window.location.href = "{{ site.baseurl }}{{ next_event }}"
+     </script>
+     <title>Page Redirection</title>
+ </head>
+ <body>
+ If you are not redirected automatically, follow <a href='{{ site.baseurl }}{{ next_event }}'>this link</a>.
+ </body>
+ </html>
+

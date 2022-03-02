@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="box_color group_{{page.group}}">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-meta"> <b>Place:   </b>{{ page.place }}</span><br>
+    <span class="post-meta"> <b>Contact: </b>{{ page.contact }}</span><br>
+    <span class="post-meta"> <b>Date:    </b>{{ page.date | date: "%A, %-d %B, %Y." }} <a style="color:grey" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread"></a></span><hr/>
+    <span class="post-text">{{ content }}</span>
+    {% include post-pagination.html %}
+</div>
+
+
+{% comment %}
+{% include JB/comments %}
+{% endcomment %}

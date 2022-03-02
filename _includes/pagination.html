@@ -1,0 +1,15 @@
+<div class="pagination is-centered">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-previous">Recent talks</a>
+  {% else %}
+    <span class="pagination-previous is-left">Recent talks</span>
+  {% endif %}
+  <span class="pagination-list">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a class="pagination-next" href="{{ paginator.next_page_path | relative_url }}" class="next">Previous talks</a>
+  {% else %}
+    <span class="pagination-next">Previous talks</span>
+  {% endif %}
+</div>
