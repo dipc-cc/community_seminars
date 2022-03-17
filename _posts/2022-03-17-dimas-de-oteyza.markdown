@@ -1,11 +1,10 @@
 ---
 layout: talk
 speaker: Dimas G. de Oteyza (CINN, CSIC-UNIVOVI-PA)
-#image: /assets/images/facephoto.png
+image: /assets/images/figs/dimas.png
 place: Josebe Olarra Seminar Room
 title: Chemical stability of zigzag edges in carbon
 date: "2022-03-17 12:00:00"
-tags: [physics, invited]
 zoom link: https://dipc-org.zoom.us/j/88211757864
 youtube link: https://www.youtube.com/watch?v=RmJ5yJEih1g
 group: 2
