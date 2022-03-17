@@ -1,6 +1,8 @@
-# Soot Spirits Jekyll Theme
+# Community seminars website
 
-Soot Spirits is a responsive mobile ready lightweight two column Jekyll theme made with Bulma CSS. It is a great template for simple personal blogs with focus on typography.
+This website is based in Soot Spirits theme, 
+a responsive mobile ready lightweight two column Jekyll theme 
+made with Bulma CSS. It is a great template for simple personal blogs with focus on typography.
 
 ![mobile](tmp/mobile.png)
 
