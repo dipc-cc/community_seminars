@@ -39,7 +39,7 @@ Usage:
         <br>
         <a class="nice-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <br><img src="{{ site.baseurl }}{{ post.image }}" alt="" style="width:100px;"/>
-        <br><b>{{ post.speaker }} (<a href="mailto:{{post.contact}}">{{post.contact}})</a></b>
+        <br><b>{{ post.speaker }}</a></b>
         <p class="nice-text">{{ post.content | strip_html | truncatewords: 80 }} <a href="{{ post.url | relative_url }}">Read more!</a></p>
         </lu>
         <br>
