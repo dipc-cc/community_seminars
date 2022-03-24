@@ -6,7 +6,7 @@ place: Josebe Olarra Seminar Room
 #contact: albert@mail.com
 title: Using synchrotron-based X-ray techniques to direct the design of improved metallic devices for biological applications
 date: "2022-02-03 12:00:00"
-tags: [physics, invited]
+tags: [life]
 group: 2
 ---
 
