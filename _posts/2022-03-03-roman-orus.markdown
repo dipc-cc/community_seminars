@@ -11,7 +11,7 @@ tags: [quantum]
 group: 1
 ---
 
-The rich chemistry of transition metals permits them to undergo a great variety of reactions when found in biological environments. As such, metals fulfil multiple fundamental tasks in life organisms, and the homeostasis of bio-metals (i.e. Fe, Zn and Cu) is highly regulated. Equally, numerous anthropogenic metallic devices such as inorganic complexes or metal nanomaterials are currently being developed as biomedical or biotechnological tools. However, the same varied reactivity shown by metals makes challenging to explore their fate and mechanisms of action in biological samples, hampering their development into clinical or industrial use.
+In this talk I'll give an overview of my main lines of research. First, I will explain tensor network states and methods and show recent results where we have used them to study quantum matter and improve machine learning algorithms. Then, I will explain the current status of quantum computing, the most promising algorithms for Noisy Intermediate-Scale Quantum Devices, and how these can start to be applied to real-life industrial problems in a variety of verticals. Finally, I will give some overall perspectives on the field of quantum technologies. 
 
 
 ![Plot]({{ site.baseurl }}/assets/images/figs/roman.jpeg)
