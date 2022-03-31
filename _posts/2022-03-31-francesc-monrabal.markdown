@@ -3,7 +3,7 @@ layout: talk
 speaker: Francesc Monrabal Capilla (DIPC)
 image: /assets/images/figs/francesc.png
 place: Josebe Olarra Seminar Room
-title: Chemical stability of zigzag edges in carbon
+title: High pressure gaseous TPCs for neutrino physics
 date: "2022-03-31 12:00:00"
 zoom: https://dipc-org.zoom.us/j/85312305091
 youtube: https://youtu.be/IrQPmtiia84
