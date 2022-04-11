@@ -25,7 +25,7 @@ Usage:
 {% assign currentDateJS = currentDateJS | plus: 0 %}
 
 {% capture currentDate %} {{ 'now' | date: '%s'}} {% endcapture %}
-{% for post in posts_upcoming  %}
+{% for post in posts_upcoming reversed %}
 
     {% capture postDate %} {{ post.date | date: '%s'}} {% endcapture %}
     {% assign postDate = postDate | plus: 0 %}
