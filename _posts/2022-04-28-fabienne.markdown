@@ -1,0 +1,14 @@
+---
+layout: talk
+speaker: Fabienne Barroso Bujans (CFM-DIPC)
+place: Josebe Olarra Seminar Room
+title: TBA
+date: "2022-04-28 12:00:00"
+zoom: TBA
+youtube: TBA
+tags: [life]
+group: 1  
+---
+TBA
+
+![Plot]({{ site.baseurl }}/assets/images/figs/fabienne.jpeg)
