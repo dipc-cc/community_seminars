@@ -2,13 +2,13 @@
 layout: talk
 speaker: Fabienne Barroso Bujans (CFM-DIPC)
 place: Josebe Olarra Seminar Room
-title: TBA
+title: Synthesis and applications of cyclic polymers
 date: "2022-04-28 12:00:00"
-zoom: TBA
-youtube: TBA
+zoom: https://dipc-org.zoom.us/j/87805098764
+youtube: https://youtu.be/X7CVY7wzXTU
 tags: [life]
 group: 2  
 ---
-TBA
+Cyclic polymers possess unique physico-chemical properties compared to their linear counterparts as a result of the absence of end-groups and their more compact conformation. The overall interest over these cyclic structures or rings is really growing. Today, there are two primary methods for the synthesis of cyclic polymers: (1) ring closure and (2) ring expansion polymerization. In this seminar, I will talk about our latest results on (a) the synthesis of cyclic polyethylene glycol (PEG) via ring closure, to be used as an alternative of classical linear PEG ligands for gold nanoparticle stabilization, and (b) the synthesis of branched cyclic polyglycidol via ring expansion polymerization, to be used as a carrier of biologically active molecules.
 
 ![Plot]({{ site.baseurl }}/assets/images/figs/fabienne.jpeg)
