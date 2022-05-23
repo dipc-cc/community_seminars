@@ -1,10 +1,10 @@
 ---
 layout: talk
-speaker: Deung-Jang Choi (CFM-DIPC)
+speaker: Deung-Jang Choi (DIPC)
 place: Josebe Olarra Seminar Room
-title: TBA 
+title: Spins on surfaces for quantum technology 
 date: "2022-05-26 12:00:00"
-zoom: TBA 
+zoom: https://dipc-org.zoom.us/j/88404278251 
 youtube: TBA
 tags: [quantum]
 group: 1  
@@ -12,4 +12,4 @@ group: 1
 
 TBA
 
-![Plot]({{ site.baseurl }}/assets/images/figs/dj.jpeg)
+![Plot]({{ site.baseurl }}/assets/images/figs/djc.jpeg)
