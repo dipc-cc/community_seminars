@@ -2,10 +2,10 @@
 layout: talk
 speaker: Claire Tonnelé (DIPC)
 place: Josebe Olarra Seminar Room
-title: TBA 
+title: Photophysics of organic materials from a computational perspective 
 date: "2022-06-09 12:00:00"
-zoom: TBA 
-youtube: TBA
+zoom: https://dipc-org.zoom.us/j/84043216200
+youtube: https://youtu.be/1dbPU0WbpmI
 tags: [quantum]
 group: 1  
 ---
