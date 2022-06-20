@@ -10,6 +10,13 @@ tags: [nano]
 group: 2  
 ---
 
-TBA
+In this talk I will summarize the main research lines our research group is following at the DIPC. Generally, our research is focused on the study of the behavior of light in the presence of nanostructured matter, both in the form of nanoparticles and photonic crystals.
+Our group is developing a wide range of novel applications based on the novel aspects of nanoscale light matter interactions. To mention a few, in this talk we will see how single dielectric nanostructures supporting combinations of electric and magnetic resonances [1] can augment the interaction of circularly polarized light with chiral molecules [2]. Specifically, we will show how Silicon nanoparticle arrays can greatly enhance the sensitivity of chiral spectroscopic techniques such as circular dichroism spectroscopy. [3-4] Moreover, we will explain how this augmented chiral interaction can also be used for the separation of chiral molecular enantiomers by optical means with high efficiencies [5].
+On the other hand, we will analyze how all-dielectric photonic crystals can mimic many topological effects happening in solid-state electronic systems [6-8]. Our aim is to exploit the exotic properties of topological photonic materials to unveil novel ways of manipulating the propagation of light which could facilitate innovative light- matter interactions at the nanoscale.
+Last but not least, in our group we also explore how plasmonic nanoparticles can also be used directly to activate neurons exploiting new mechanisms such as local heat generation. Due to their small size, their excitation can generate high temperatures, localized in space and time, and, by activating thermosensitive channels or changing membrane capacitance, trigger action potentials [9].
+
+References:
+[1] Garcia-Etxarri, A. et.al., Optics express, 19(6), 4815- 4826 (2011); [2] Garcia-Etxarri, A. et.al., Physical Review B 87(23), 235409 (2013); [3] Lasa-Alonso, et. al., ACS Photonics, 7(11), 2978-2986 (2020); [4] Solomon, M. L., et. al., ACS Photonics, 6(1), 43-49; [5] Ho, C. S. et. al., ACS Photonics, 4(2), 197-203 (2017) [6] Barry Bradlyn et. al., Nature 547 (7663), 298 (2017); [7] M. Blanco de Paz et. al. PRR 1(3), 032005 (2019); [8] Devescovi, C., et. al. Nature communications, 12(1), 1- 12 (2021), [9] Garcia-Etxarri, A., & Yuste, R. Nature Methods, 18(11), 1287-1293 (2021)
+
 
 ![Plot]({{ site.baseurl }}/assets/images/figs/aitzol.jpeg)
