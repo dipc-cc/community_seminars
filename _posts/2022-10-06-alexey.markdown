@@ -1,0 +1,13 @@
+---
+layout: talk
+speaker: Alexey Nikitin (DIPC)
+place: Josebe Olarra Seminar Room
+title: Hyperbolic light
+date: "2022-10-06 12:00:00"
+zoom: https://dipc-org.zoom.us/j/96421616292
+youtube: https://youtu.be/NnfxCGABKD4
+tags: [quantum]
+group: 1  
+---
+
+![Plot]({{ site.baseurl }}/assets/images/figs/alexey.jpeg)
