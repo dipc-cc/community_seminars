@@ -10,4 +10,7 @@ tags: [quantum]
 group: 1  
 ---
 
+Propagation of light through media has always been an area of a high interest in physics. Moreover, related optical phenomena, such as diffraction, scattering and emission of light play the central role in technologies for information processing, security and medicine, to name a few, and thus research in optics is highly relevant for the society. However, although the most of the optical phenomena in conventional media are well studied, light behavior can dramatically change in strongly anisotropic materials, producing surprising and basically unexplored effects. Particularly, in some van der Waals crystals the dispersion of light ? the relation between the momentum and energy ? can take a hyperbolic shape. As a result, hyperbolic light can only travel along some specific directions in space, where it demonstrates highly non-intuitive ?negative? reflection and refraction, negative phase and group velocities, canalization (propagation of light along very narrow sectors in space) and deeply subwavelength focusing. In this talk we will outline the progress in the field of hyperbolic optics and explain the basic properties of the hyperbolic light. We will show recent experimental studies on the hyperbolic light, their interpretation and applications and discuss future perspectives.
+
+
 ![Plot]({{ site.baseurl }}/assets/images/figs/alexey.jpeg)
