@@ -1,0 +1,18 @@
+---
+layout: talk
+speaker: Fernando Cossio (DIPC)
+place: Josebe Olarra Seminar Room
+title: Hyperbolic light
+date: "2022-10-20 12:00:00"
+zoom: https://dipc-org.zoom.us/j/95671073713
+youtube: https://youtu.be/dzkIz_uGhPs
+
+tags: [quantum]
+group: 1  
+---
+
+Neutrinoless double beta decay (bb0n) processes constitute a very promising method (perhaps the only practical way) to demonstrate that neutrinos are they own antiparticles. Demonstrating this hypothesis would constitute a major discovery in physical sciences and cosmology. One useful bb0n nuclear reaction involves the Xe-136 isotope and leads to the emission of two electrons, whose drift and energy can be monitored in an ETD (Energy-Tracking Detector), together with a barium cation. Therefore, the second essential component of the TPC (Time Projection Chamber) to monitor this reaction is the BTD (Barium Tagging Detector).
+The BTD must incorporate a fluorescent sensor whose photophysical properties are ade-quate to distinguish the free and Ba2+-bound states, thus giving rise to a bicolour fluorescent indicator (FBI) potentially useful for barium tagging in NEXT-BOLD experiments. The different emission spectra for the free and coordinated states stem from the de-coupling between the aromatic components of the fluorophore upon barium coordination. In this lecture, details about the design and chemical synthesis of FBIs, their photophysical properties and structure-activity relationships will be presented, with special emphasis on DFT and TD-DFT calculations that provide a rationale for the observed behaviour.
+
+
+![Plot]({{ site.baseurl }}/assets/images/figs/fernando.jpeg)
