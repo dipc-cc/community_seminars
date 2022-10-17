@@ -2,7 +2,7 @@
 layout: talk
 speaker: Fernando Cossio (DIPC)
 place: Josebe Olarra Seminar Room
-title: Hyperbolic light
+title: From neutrinoless double beta decay nuclear reactions to supramolecular chemistry
 date: "2022-10-20 12:00:00"
 zoom: https://dipc-org.zoom.us/j/95671073713
 youtube: https://youtu.be/dzkIz_uGhPs
