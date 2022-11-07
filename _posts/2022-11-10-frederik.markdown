@@ -1,0 +1,16 @@
+---
+layout: talk
+speaker: Frederik Schiller (CFM)
+place: Josebe Olarra Seminar Room
+title: Electronic structure investigations at Nanophysics Lab in San Sebastian
+date: "2022-11-10 12:00:00"
+zoom: https://dipc-org.zoom.us/j/95835840528
+youtube: https://youtu.be/M6z9QLR9FSc
+tags: [quantum]
+group: 1  
+---
+
+In the seminar I want to present some of the activities regarding electronic structure investigations at the San Sebastián based Nanophysics Lab. I will focus on three subjects, (i) the growth, electronic and magnetic properties of rare-earth noble-metal surface compounds and their interaction with molecular arrays, (ii) growth and electronic structure of 2D layers of graphene and hexagonal boron nitride on curved crystal substrates, and (iii) heterogeneous catalysis on curved crystals. The two latter activities involve our curved crystal approach that use cylindrical section of single crystals as substrate materials. I will highlight the advantages of this approach. On one hand side, we are able to study the influence of surface steps on growth and electronic structure; on the other hand, we can study active catalytic sites at surfaces of materials in certain reactions. These reactions include the environmental relevant CO oxidation, as well as CO2 reduction to produce ?green? fuels.
+
+
+![Plot]({{ site.baseurl }}/assets/images/figs/frederik.jpg)
