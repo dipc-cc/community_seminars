@@ -10,4 +10,4 @@ group: 1
 
 Intriguing behavior is known to emerge from quantum many-body systems, including exotic forms of superconductivity or anyonic quasiparticles in topologically ordered system. However, understanding these phenomena is a great scientific challenge: The theoretical description of interacting quantum systems suffers from the exponentially large configuration space. The experimental detection of strongly correlated behavior is often complicated, e.g. due to the non-local nature of order parameters in topological matter. In this seminar, I review different approaches in which light-matter interaction is used to probe and control quantum many-body systems, to reveal the phase diagram of correlated matter, or to mimic such matter in highly controllable quantum simulators.
 
-![Plot]({{ site.baseurl }}/assets/images/figs/tobias.jpg)
+![Plot]({{ site.baseurl }}/assets/images/figs/tobias.jpeg)
