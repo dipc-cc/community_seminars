@@ -1,8 +1,8 @@
 ---
 layout: talk
-speaker:  (DIPC)
+speaker: Ignacio Arganda-Carreras (Ikerbasque, DIPC, Biofisika Institute)
 place: Josebe Olarra Seminar Room
-title: 
+title: Bioimage analysis in the era of deep learning
 date: "2023-01-19 12:00:00"
 group: 2  
 ---
