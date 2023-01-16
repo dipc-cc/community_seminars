@@ -1,0 +1,13 @@
+---
+layout: talk
+speaker:  (DIPC)
+place: Josebe Olarra Seminar Room
+title: 
+date: "2023-01-19 12:00:00"
+group: 2  
+---
+
+Deep learning has revolutionized many fields in recent years, including bioimage analysis. In this talk, we will provide an introduction to deep learning and its applications in computer vision, with a focus on bioimage analysis. We will cover the basics of deep learning and explain how it can be used to analyze and interpret biological images. In the latter part of the talk, we will introduce BiaPy, an open source Python-based library developed at the DIPC to facilitate the design, development, and execution of image processing workflows for bioimage analysis. This library aims to make it easier for researchers to apply deep learning techniques to their own image datasets and to build custom image processing pipelines for their specific needs. Overall, this talk will provide an overview of the current state of the art in deep learning for bioimage analysis and introduce a new tool for researchers in this field.
+
+
+![Plot]({{ site.baseurl }}/assets/images/figs/ignacio.jpg)
