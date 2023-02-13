@@ -1,0 +1,13 @@
+---
+layout: talk
+speaker: Maria Blanco-Rey (UPV/EHU)
+place: Josebe Olarra Seminar Room
+title: Bioimage analysis in the era of deep learning
+date: "2023-01-19 12:00:00"
+zoom: https://dipc-org.zoom.us/j/91666783185
+group: 2  
+---
+
+In this talk I will review the role of magnetocrystalline anisotropy (MCA) in the orientation of spins in lowdimensional systems. The MCS is a consequence of spinorbit interaction (SOI), which imposes a preferred alignment of the magnetic moments with respect to the spatial degrees of freedom in a given system. In the literature the frameworks of "single-ion anisotropy" (a localized effect) and "band anisotropy" (an extended one) are commonly used to interpret data. If we track the SOI down to the electronic structure scale and apply perturbation theory, we are able to unify those frameworks and understand other side effects. For example, how SOI allows for anisotropy in the interactions (exchange) between magnetic moments, which may be chiral under suitable symmetry conditions. I will illustrate these concepts with theoretical and experimental results on low-dimensional systems based in 3d and 4f atomic orbital magnetism.
+
+![Plot]({{ site.baseurl }}/assets/images/figs/maria.jpeg)
