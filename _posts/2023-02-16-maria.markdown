@@ -2,8 +2,8 @@
 layout: talk
 speaker: Maria Blanco-Rey (UPV/EHU)
 place: Josebe Olarra Seminar Room
-title: Bioimage analysis in the era of deep learning
-date: "2023-01-19 12:00:00"
+title: Understanding magnetic anisotropy in spin orientation and spin-spin interactions
+date: "2023-02-16 12:00:00"
 zoom: https://dipc-org.zoom.us/j/91666783185
 group: 2  
 ---
