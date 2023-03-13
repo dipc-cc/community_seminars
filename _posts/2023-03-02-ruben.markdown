@@ -1,14 +1,15 @@
 ---
 layout: talk
-speaker: Daniel Reta (Ikerbasque / UPV-EHU / DIPC)
+speaker: Ruben Esteban (CFM)
 place: Josebe Olarra Seminar Room
-title: Molecular magnetism: Theory and experiment 
-date: "2023-03-16 12:00:00"
-zoom: https://dipc-org.zoom.us/j/96563195753
-youtube: https://youtube.com/live/kfZFdfc0brQ
+title: Light-Matter Interaction at the (sub)nanometer scale
+date: "2023-03-02 12:00:00"
+zoom: https://dipc-org.zoom.us/j/95521139061
+youtube: https://youtube.com/live/6Bh0vDzX-SQ
 group: 2  
 ---
 
 The interaction between light and material excitations such as phonons or molecular excitons can be enhanced by exploiting optical modes that confine the electromagnetic field to small volumes. Plasmonic resonances due to the collective oscillations of the free electrons of metallic nanoresonators are particularly attractive to maximize the field confinement, as they are not restricted by the diffraction limit. Here, we introduce the properties of plasmonic systems, describe their coupling with material excitations and present situations of current interest that exploit the extreme field confinement to enhance the sensitivity of molecular spectroscopy techniques and to reveal quantum effects. We establish a connection between the fields of plasmonics and of quantum optomechanics and show that addressing excitons and vibrations at the single-molecule level and with subnanometer resolution has become possible in recent years, opening new possibilities for the control and characterization of molecular properties.
 
-![Plot]({{ site.baseurl }}/assets/images/figs/DReta.jpg)
+
+![Plot]({{ site.baseurl }}/assets/images/figs/ruben.jpeg)
