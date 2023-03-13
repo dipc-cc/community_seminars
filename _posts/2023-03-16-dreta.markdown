@@ -2,7 +2,7 @@
 layout: talk
 speaker: Daniel Reta (Ikerbasque / UPV-EHU / DIPC)
 place: Josebe Olarra Seminar Room
-title: Molecular magnetism: Theory and experiment
+title: "Molecular magnetism: Theory and experiment"
 date: "2023-03-16 12:00:00"
 zoom: https://dipc-org.zoom.us/j/96563195753
 youtube: https://youtube.com/live/kfZFdfc0brQ
