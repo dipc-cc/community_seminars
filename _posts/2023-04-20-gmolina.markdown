@@ -2,7 +2,7 @@
 layout: talk
 speaker: Gabriel Molina-Terriza (Ikerbasque / CFM)
 place: Josebe Olarra Seminar Room
-title: "Gabriel Molina-Terriza"
+title: "From entangled photons to levitated particles"
 date: "2023-04-20 12:00:00"
 zoom: https://dipc-org.zoom.us/j/92303580699
 youtube: https://youtube.com/live/J61n9iMfRys
