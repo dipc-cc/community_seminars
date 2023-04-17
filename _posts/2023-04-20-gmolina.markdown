@@ -1,0 +1,15 @@
+---
+layout: talk
+speaker: Gabriel Molina-Terriza (Ikerbasque / CFM)
+place: Josebe Olarra Seminar Room
+title: "Gabriel Molina-Terriza"
+date: "2023-04-20 12:00:00"
+zoom: https://dipc-org.zoom.us/j/92303580699
+youtube: https://youtube.com/live/J61n9iMfRys
+group: 2
+---
+
+In this talk, I will present the activities of the Quantum Nanophotonics Laboratory, across the street in the Materials Physics Centre. Here, we work on a series of experiments with the common aim of exploring the boundaries of classical an quantum physics. We study the scattering of light from small particles and use, for that purpose, both classical and quantum sources of light. I will also present our efforts in controlling the electronic and nuclear spin of Nitrogen Vacancy centers in diamond. Finally, I will also show how the optical trapping and levitation of small particles can be used as quantum enhanced inertial sensors. Overall, our experiments in fundamental science find applications in quantum technologies, such as quantum computing, communications and sensing.
+
+
+![Plot]({{ site.baseurl }}/assets/images/figs/gmolina.jpeg)
