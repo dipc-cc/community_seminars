@@ -1,0 +1,16 @@
+---
+layout: talk
+speaker: Paola Ferrario (DIPC / Ikerbasque)
+place: Josebe Olarra Seminar Room
+title: "PETALO: Positron Emission Tomography with liquid xenon"
+date: "2023-05-04 12:00:00"
+zoom: https://dipc-org.zoom.us/j/96581785802
+youtube: https://youtube.com/live/rXQ-_a0xbVw
+group: 2
+---
+
+In our life as scientists, we are often being asked what our work is for and the answer is not always direct, especially in fields related to the so-called "fundamental science" such as particle physics. 
+Medical physics is probably the most known example of the application of particle physics to the daily life, since it employs knowledge about fundamental particles and their detection methods to develop innovative techniques to study, monitor and treat a variety of diseases.
+In this talk I will present the case of PETALO, a novel technique for Positron Emission Tomography scanners, which was conceived in the context of neutrino physics. PETALO uses liquid xenon as a scintillation medium and silicon photomultipliers to read out the scintillation light. I will discuss the advantages of such a technique compared to the conventional ones and the first results obtained in a small prototype, built to demonstrate the feasibility of the concept.
+
+![Plot]({{ site.baseurl }}/assets/images/figs/paola.jpeg)
