@@ -1,0 +1,14 @@
+---
+layout: talk
+speaker: Ion Errea (UPV/EHU)
+place: Josebe Olarra Seminar Room
+title: "Quantum anharmonic effects in solids: A trip from high-Tc hydrogen-rich superconductors to charge-density-wave materials"
+date: "2023-05-23 12:00:00"
+zoom: https://dipc-org.zoom.us/j/95431903381
+youtube: https://youtube.com/live/hORy-xteAEs
+group: 2
+---
+
+In this seminar I will review the activity of our group at the CFM. In order to overcome the limitations imposed by standard approximations, we develop new theoretical methods that give us the possibility of approaching problems in physics from a novel and advanced perspective, specially for the analysis of the lattice vibrational properties and the electron-phonon coupling. I will review some recent applications of our methods to understand the effects of vibrational quantum effects and lattice anharmonicity, mostly in the field of high-temperature hydrogen-based superconductors and materials undergoing CDW transitions.
+
+![Plot]({{ site.baseurl }}/assets/images/figs/ion.jpeg)
