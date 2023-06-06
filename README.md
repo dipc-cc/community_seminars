@@ -53,7 +53,6 @@ The text is made beautiful with combination of [League Gothic](https://www.fonts
 
 ### Licence
 MIT
-test
 
 ### What's up with the name?
 I was watching [My Neighbour Totoro](https://en.wikipedia.org/wiki/Susuwatari) while developing :-)
