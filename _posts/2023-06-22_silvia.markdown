@@ -1,0 +1,15 @@
+---
+layout: talk
+speaker: Silvia Bonoli (Ikerbasque / DIPC) 
+place: Josebe Olarra Seminar Room
+title: "Following the exciting life of massive black holes"
+date: "2023-06-22 12:00:00"
+zoom: https://dipc-org.zoom.us/j/99055755748
+youtube: https://youtube.com/live/4gujJN6mwFY
+group: 2
+---
+
+In this talk I will summarize what massive black holes are, what we know about them and what we hope to discover in the future. I will emphasize the work done in this field by the astrophysics group at the DIPC.
+Everyone is welcome to join! No previous knowledge of astrophysics is required
+
+![Plot]({{ site.baseurl }}/assets/images/figs/silvia.jpeg)
