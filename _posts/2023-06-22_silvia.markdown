@@ -1,15 +1,15 @@
 ---
 layout: talk
-speaker: Silvia Bonoli (Ikerbasque / DIPC) 
+speaker: Natxo Pascual (CIC nanoGUNE)
 place: Josebe Olarra Seminar Room
-title: "Following the exciting life of massive black holes"
+title: "The emergence of magnetism in graphene nanostructures"
 date: "2023-06-22 12:00:00"
-zoom: https://dipc-org.zoom.us/j/99055755748
-youtube: https://youtube.com/live/4gujJN6mwFY
+zoom: https://dipc-org.zoom.us/j/99893022073
+youtube: https://youtube.com/live/exFGnti0gOA
 group: 2
 ---
 
-In this talk I will summarize what massive black holes are, what we know about them and what we hope to discover in the future. I will emphasize the work done in this field by the astrophysics group at the DIPC.
-Everyone is welcome to join! No previous knowledge of astrophysics is required
+The era of graphene is far from over! More and more intricate phenomena emerge as we improve our ability to finely tune the configuration, structure, and shape of graphene flakes with high precision. Our group at CIC nanoGUNE, in collaboration with groups at DIPC and CFM, as well as others in Spain [1], has discovered that graphene flakes fabricated in custom shapes with atomic precision exhibit magnetic phases. These phases can be detected with atomic resolution using scanning tunneling microscopy, opening the door to exploring unique configurations for interacting spins and the various mechanisms behind their emergence. In this talk, I will present our research in this field, showcasing some paradigmatic examples of graphene nanostructures. If time permits, I will also introduce novel scenarios for graphene systems that are the focus of our laboratory.
 
-![Plot]({{ site.baseurl }}/assets/images/figs/silvia.jpeg)
+
+![Plot]({{ site.baseurl }}/assets/images/figs/natxo.jpeg)
