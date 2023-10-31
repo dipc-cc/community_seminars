@@ -1,0 +1,14 @@
+---
+layout: talk
+speaker: David Casanova (Ikerbasque / DIPC) 
+place: Josebe Olarra Seminar Room
+title: "Molecular electronic structure investigations at the DIPC"
+date: "2023-11-09 12:00:00"
+zoom: https://dipc-org.zoom.us/j/91573517286
+youtube: https://youtube.com/live/6-HrEZSE-M4
+group: 2
+---
+
+In this talk, I will present the research activities undertaken by our group at the DIPC focused on the study of the electronic structure of molecular systems. Over the recent years, our efforts have been focused on diverse and complementary facets, spanning the development, implementation, and application of quantum chemistry methodologies. These approaches have been instrumental in dissecting an extensive array of molecular systems, probing their inherent properties, and unraveling their responses to stimuli such as electromagnetic radiation, external magnetic fields, and mechanical perturbations. The talk will provide a comprehensive overview of our progress in several key areas, including the development of quantum chemistry methodologies tailored for both ground and excited states, the introduction of efficient quantum algorithms for quantum chemistry, the characterization of strongly correlated molecules, the study of intricate molecular photophysical processes, the computational study of magnetic properties of high spin molecules, and the simulation of excited state dynamics and energy transport in molecular materials. Finally, I will also show some examples of collaborative works of our group with experimental investigations.
+
+![Plot]({{ site.baseurl }}/assets/images/figs/david.jpeg)
