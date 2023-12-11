@@ -1,0 +1,16 @@
+---
+layout: talk
+speaker: Thomas Frederiksen (Ikerbasque / DIPC) 
+place: Josebe Olarra Seminar Room
+title: "Molecular electronic structure investigations at the DIPC"
+date: "2023-12-14 12:00:00"
+zoom: https://dipc-org.zoom.us/j/91573517286
+youtube: https://youtube.com/live/6-HrEZSE-M4
+group: 2
+---
+
+Since the advent of the scanning tunnelling microscope (STM) in the 1980s, the field of nanoelectronics has undergone remarkable developments, enabling precise atomic-scale manipulation and fundamentally altering materials science. Alongside this, semiconductor technology has dramatically evolved, now operating at the nanometre scale where quantum effects like tunnelling and interference become predominant.
+This community seminar will provide an overview of our research group's collaborative investigations at DIPC into electron transport phenomena within atomic-sized structures, emphasizing atomistic modelling. Our discussion will cover three current areas of focus: (i) exploring electron spin states in open-shell nanographenes, highlighting their potential as hosts for spin qubits in quantum technologies; (ii) examining electron transport in graphene nanoribbon networks, a promising platform for electron quantum optics; and (iii) studying light emission and photon statistics from single-molecule STM junctions under bias, which has implications for quantum optical applications.
+In concluding, this seminar aims to transmit the excitement and synergy between cutting-edge experimental findings and atomic-scale theoretical insights. Our focus on advanced simulations in nanoelectronics not only complements current experimental research but also aims to propel further exploration and innovation in the field, driven by the profound insights that only atomic-scale investigations can provide.
+
+![Plot]({{ site.baseurl }}/assets/images/figs/thomas.jpg)
