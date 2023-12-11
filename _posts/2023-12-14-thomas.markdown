@@ -4,8 +4,8 @@ speaker: Thomas Frederiksen (Ikerbasque / DIPC)
 place: Josebe Olarra Seminar Room
 title: "Molecular electronic structure investigations at the DIPC"
 date: "2023-12-14 12:00:00"
-zoom: https://dipc-org.zoom.us/j/91573517286
-youtube: https://youtube.com/live/6-HrEZSE-M4
+zoom: https://dipc-org.zoom.us/j/96268304445
+youtube: https://youtube.com/live/
 group: 2
 ---
 
