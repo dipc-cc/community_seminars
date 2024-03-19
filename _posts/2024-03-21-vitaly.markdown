@@ -1,0 +1,14 @@
+---
+layout: talk
+speaker: Vitaly Golovach (CFM-UPV/EHU & DIPC) 
+place: Josebe Olarra Seminar Room
+title: "Spins in mesoscopic and topological systems for quantum computing and spintronics"
+date: "2024-03-21 12:00:00"
+zoom: https://dipc-org.zoom.us/j/98275447425
+youtube: https://youtube.com/live/8w4PAm7DPk4
+group: 1
+---
+
+I will briefly review the motivation behind devising efficient mechanisms of coherent spin control in semiconductors, reviewing along the lines of the Loss-DiVincenzo proposal for quantum computing and the EDSR mechanism of spin control in quantum dots. I will consider an example of a hybrid metal-ferromagnetic insulator system which provides additional mechanisms of spin control in spintronics and potentially in quantum computing. A microscopic theory of spin Hall magnetoresistance is derived from the calculation of spin relaxation and decoherence of electrons at interfaces. As a second example, I will consider a strain- induced topological insulator, which hosts surface states in projected bandgaps and which can be turned into a 3D Dirac semimetal, and further into a nodal-line semimetal and even further into a Weyl semimetal, by strain engineering and inclusion of spin-orbital terms of different types. As a historical remark, I will explain the relation between the Dyakonov-Khaetskii and Volkov-Pankratov surface states in the context of a minimal model of k.p-interaction and show how these states unite in the presence of strain. Moving on to the quantum well case, I will introduce new effective boundary conditions and discuss the splitting of the Volkov-Pankratov states and the (apparent) levitation of the Dirac point in recent experimental reports. Finally, I will discuss a marker for topological protection which is intimately related to spin electric coupling, and hence to EDSR.
+
+![Plot]({{ site.baseurl }}/assets/images/figs/vitaly.jpg)
